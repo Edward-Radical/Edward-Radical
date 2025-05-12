@@ -8,7 +8,7 @@ I'm a **Backend Developer** passionate about building robust, scalable, and effi
 - Node.js
 - TypeScript
 
-[![roadmap.sh](https://roadmap.sh/card/wide/64bd74798b7b093273802ec3?variant=dark&roadmaps=nodejs%2Ctypescript%2Cpostgresql-dba)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/64bd74798b7b093273802ec3?variant=dark)](https://roadmap.sh)
 
 ---
 
